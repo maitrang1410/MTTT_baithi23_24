@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MTTT_baithi2324.props" />
+</Project>
